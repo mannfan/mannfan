@@ -1,6 +1,4 @@
-$ whoami
-alex
-
+```text
 $ profile
 
 focus
@@ -14,3 +12,4 @@ design
   rollback first
   trace everything
   debug with evidence
+```
