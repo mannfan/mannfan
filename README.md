@@ -8,7 +8,7 @@ focus
   linux
   networking
 
-design
+principles
   rollback first
   trace everything
   debug with evidence
